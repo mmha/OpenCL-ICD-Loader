@@ -1,1 +1,1 @@
-add_library (IcdLog SHARED icd_test_log.c)
+add_library(IcdLog icd_test_log.c)
